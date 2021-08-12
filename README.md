@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kabiya2018
+- 👀 I’m interested in Data.
+- 🌱 I’m currently learning Data Science.
